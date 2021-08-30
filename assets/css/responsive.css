@@ -1,0 +1,84 @@
+@media (max-width:1024px) {
+    
+}
+
+@media (min-width: 740px) and (max-width:10234px){
+    
+}
+
+@media (max-width: 1023px) {
+    .buy-ticket {
+        padding: 16px 16px;
+    }
+    .message-send {
+        padding: 14px 16px;
+    }
+    .message-form {
+        padding: 15px;
+    }
+    .message-full {
+        padding: 15px;
+    }
+    .footer i {
+        font-size: 32px;
+        padding: 0 8px;
+    }
+    .footer p a {
+        padding:8px 0;
+    }
+}
+
+@media (max-width: 739px) {
+    .header {
+        overflow: hidden;
+    }
+    .nav {
+        display: block;
+        
+    }
+    .nav li {
+        display: block;
+    }
+    .nav > li:first-child {
+        display: inline-block;
+    }
+    .nav-item {
+        display: block;
+    }
+    .subnav {
+        position: inherit;
+        background-color: #333;
+    }
+    .subnav-item {
+        color: #fff;
+        padding: 3px 60px 0px 37px;
+    }
+    .header-search {
+        display: none;
+    }
+
+    .mobile-menu {
+        display: block;
+    }
+    .content-memberband {
+        width:100%;
+        padding: 14px 0;
+    }
+
+    .place-tour-item {
+        width:100%;
+    }
+    .modal-container {
+       width:95%;
+    }
+    .contact-info {
+        width:100%;
+    }
+    .contact-message {
+        width: 100%;
+    }
+    .message-half {
+        padding: 5px 8px;
+        width: 100%;
+    }
+}
